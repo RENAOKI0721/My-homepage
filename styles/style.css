@@ -1,0 +1,13 @@
+body{background-color: steelblue;}
+
+
+
+
+.name h1{text-align: center;}
+.profile p{text-align: center;
+            }
+li{list-style: none;}
+.global-nav a{text-decoration: none ;}
+.global-nav{
+    margin-top: 300px;margin-left:  500px;
+}
